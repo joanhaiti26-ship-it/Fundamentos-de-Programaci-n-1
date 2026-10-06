@@ -1,0 +1,9 @@
+ #include <stdio.h>
+
+int main() {
+    float precio = 25.6789;
+
+    printf("El precio es: %.2f\n", precio);
+
+    return 0;
+}
